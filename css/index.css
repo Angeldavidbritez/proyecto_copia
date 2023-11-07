@@ -1,0 +1,43 @@
+/* navbar */
+.pad{
+    height: 80px;
+}
+.nav-col{  
+    background-image:rgb(128, 0, 128);
+}  
+/* barra izq */
+.bar-iz{
+    width:140px ;
+}
+.bar-izp{
+    background-color:rgba(255, 77, 77 ,0.4);
+    width:140px ;
+}
+.bar-izc{
+    color:red;
+    width:140px;
+}
+
+.img_logo{
+    width: 100px;   
+
+}
+
+/* css de divs */
+.div_lat_izq{
+    width: 180px;
+}
+.div-info-anch{
+    width: 800px;
+    height: 700px;
+}
+.div-row-info{
+    width: 800px;
+    
+}
+/*css de bodys*/
+
+.bod-ind{
+    height: 800px;
+    background-image: linear-gradient(to bottom left,blue,10%, purple);
+}

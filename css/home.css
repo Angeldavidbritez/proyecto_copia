@@ -1,0 +1,26 @@
+.fondo-panta{
+    background-repeat: no-repeat;
+}
+
+.espacio-alv{
+    margin-top: 0;
+    margin-bottom: 43.7rem;
+}
+.informacion{
+    background-color: rgb(70, 70, 70);
+    text-align: center;
+    padding: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    color: white;
+}
+.contactos{
+        background-color: rgb(0, 0, 0);
+        text-align: center;
+        color: white;
+    }
+
+.contactos-info{
+ padding: 10px;
+
+}

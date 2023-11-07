@@ -1,0 +1,45 @@
+.paginador {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .pagina {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin: 0 5px;
+  
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: #000;
+  
+    border-radius: 5px;
+  }
+  
+  .pagina.actual {
+    background-color: #000;
+    color: #fff;
+  }
+  
+  .pagina:hover {
+    background-color: #ccc;
+    color: #000;
+  }
+  
+  .anterior, .siguiente {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin: 0 5px;
+  
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: #000;
+  
+    border-radius: 5px;
+  }
+  
+  .anterior:disabled, .siguiente:disabled {
+    cursor: not-allowed;
+  }
+  
